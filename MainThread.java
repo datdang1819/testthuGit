@@ -11,6 +11,6 @@ package package1;
  */
 public class MainThread {
     public static void main(String[] args) {
-        
+        System.out.prinln("Xin chào Thế giới");
     }
 }
